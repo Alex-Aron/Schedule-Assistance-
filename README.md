@@ -1,4 +1,4 @@
-# Schedule-Assistance-
+# Schedule-Assistance-UF
 Small project I decided to work on that will show professor ratings when in course search
 
 How to Use As of Now:
